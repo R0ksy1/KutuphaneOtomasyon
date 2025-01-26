@@ -1,2 +1,1 @@
-# Kutuphane_Otomasyonu
-Java ile Postgresql bağlantılı kütüphane otomasyonu
+Veritabani baglantilarini daha iyi anlamak adina java dilinde yazdigim bir kutuphane otomasyon sistemini, bir veritabanina bagladim ve boyle bir proje yaptim.
